@@ -1,0 +1,12 @@
+2018-12-26 02:06:33,174 running by myself
+2018-12-26 02:06:33,933 Making request: POST https://oauth2.googleapis.com/token
+2018-12-26 02:06:33,934 Starting new HTTPS connection (1): oauth2.googleapis.com
+2018-12-26 02:06:35,605 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2018-12-26 02:06:58,392 running by myself
+2018-12-26 02:06:59,108 Making request: POST https://oauth2.googleapis.com/token
+2018-12-26 02:06:59,111 Starting new HTTPS connection (1): oauth2.googleapis.com
+2018-12-26 02:07:00,775 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+2018-12-26 02:16:14,190 running by myself
+2018-12-26 02:16:14,967 Making request: POST https://oauth2.googleapis.com/token
+2018-12-26 02:16:14,970 Starting new HTTPS connection (1): oauth2.googleapis.com
+2018-12-26 02:16:16,681 https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
